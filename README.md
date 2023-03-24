@@ -1,1 +1,1 @@
-# Python Chemistry Package
+# Simple Python Package
